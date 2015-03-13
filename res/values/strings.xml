@@ -2,9 +2,14 @@
 <resources>
     <string name="hello">Hello World, MyAndroidAppActivity!</string>
     <string name="app_name">MyAndroidApp</string>
-    <string name="radio_male">Male</string>
-    <string name="radio_female">Female</string>
-    <string name="radio_trans">Beech</string>
+    <string name="question1">Q1> First long string A long string A long string A long string A long string A long string </string>
+    <string name="question2">Q2> Second long string A long string A long string A long string A long string A long string </string>
+    <string name="question3">Q3> Third long string A long string A long string A long string A long string A long string </string>
+    <string name="question4">Q4> Fourth long string A long string A long string A long string A long string A long string </string>
+    <string name="option1">Option 1</string>
+    <string name="option2">Option 2</string>
+    <string name="option3">Option 3</string>
     <string name="btn_display">Display</string>
     <string name="action_settings">Settings</string>
+    
 </resources>
