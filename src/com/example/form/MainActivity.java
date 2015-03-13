@@ -65,10 +65,10 @@ public class MainActivity extends Activity {
 		        msg.concat((String)selected3.getText());
 		        msg.concat(" ");
 		        msg.concat((String)selected4.getText());
-		        Log.e("Debug",msg);
+		        
 		        
 			Toast.makeText(MainActivity.this,
-				msg, Toast.LENGTH_SHORT).show();
+				selected1.getText(), Toast.LENGTH_SHORT).show();
  
 		}
  
