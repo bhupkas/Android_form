@@ -56,16 +56,7 @@ public class MainActivity extends Activity {
 		        selected3 = (RadioButton) findViewById(selectedId3);
 		        selected4 = (RadioButton) findViewById(selectedId4);
 		       
-		        final String msg;
-		        msg = "";
-		        msg.concat((String)selected1.getText());
-		        msg.concat(" ");
-		        msg.concat((String)selected2.getText());
-		        msg.concat(" ");
-		        msg.concat((String)selected3.getText());
-		        msg.concat(" ");
-		        msg.concat((String)selected4.getText());
-		        
+		              
 		        
 			Toast.makeText(MainActivity.this,
 				selected1.getText(), Toast.LENGTH_SHORT).show();
