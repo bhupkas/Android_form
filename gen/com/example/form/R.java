@@ -1648,11 +1648,11 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f09002e;
         public static final int action_mode_bar_stub=0x7f09002d;
         public static final int action_mode_close_button=0x7f090020;
-        public static final int action_settings=0x7f090050;
+        public static final int action_settings=0x7f090045;
         public static final int activity_chooser_view_content=0x7f090021;
         public static final int always=0x7f090014;
         public static final int beginning=0x7f09001b;
-        public static final int btnDisplay=0x7f09004f;
+        public static final int btnDisplay=0x7f09003f;
         public static final int checkbox=0x7f090029;
         public static final int collapseActionView=0x7f090015;
         public static final int decor_content_parent=0x7f09002f;
@@ -1664,10 +1664,7 @@ containing a value of this type.
         public static final int end=0x7f09001c;
         public static final int expand_activities_button=0x7f090022;
         public static final int expanded_menu=0x7f090028;
-        public static final int group1=0x7f09003f;
-        public static final int group2=0x7f090043;
-        public static final int group3=0x7f090047;
-        public static final int group4=0x7f09004b;
+        public static final int group1=0x7f090040;
         public static final int home=0x7f090000;
         public static final int homeAsUp=0x7f09000e;
         public static final int icon=0x7f090026;
@@ -1677,23 +1674,15 @@ containing a value of this type.
         public static final int list_item=0x7f090025;
         public static final int middle=0x7f09001d;
         public static final int never=0x7f090017;
+        public static final int next=0x7f090044;
         public static final int none=0x7f09000f;
         public static final int normal=0x7f09000b;
         public static final int progress_circular=0x7f090007;
         public static final int progress_horizontal=0x7f090008;
         public static final int radio=0x7f09002b;
-        public static final int radio_button1=0x7f090040;
-        public static final int radio_button10=0x7f09004c;
-        public static final int radio_button11=0x7f09004d;
-        public static final int radio_button12=0x7f09004e;
-        public static final int radio_button2=0x7f090041;
-        public static final int radio_button3=0x7f090042;
-        public static final int radio_button4=0x7f090044;
-        public static final int radio_button5=0x7f090045;
-        public static final int radio_button6=0x7f090046;
-        public static final int radio_button7=0x7f090048;
-        public static final int radio_button8=0x7f090049;
-        public static final int radio_button9=0x7f09004a;
+        public static final int radio_button1=0x7f090041;
+        public static final int radio_button2=0x7f090042;
+        public static final int radio_button3=0x7f090043;
         public static final int search_badge=0x7f090035;
         public static final int search_bar=0x7f090034;
         public static final int search_button=0x7f090036;
@@ -1767,7 +1756,11 @@ containing a value of this type.
         public static final int abc_search_view=0x7f030015;
         public static final int abc_simple_dropdown_hint=0x7f030016;
         public static final int activity_main=0x7f030017;
-        public static final int support_simple_spinner_dropdown_item=0x7f030018;
+        public static final int q1=0x7f030018;
+        public static final int q2=0x7f030019;
+        public static final int q3=0x7f03001a;
+        public static final int q4=0x7f03001b;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001c;
     }
     public static final class menu {
         public static final int main=0x7f0c0000;
@@ -1829,10 +1822,11 @@ containing a value of this type.
         /**  Content description for the Toolbar icon used to collapse an expanded action mode. [CHAR LIMIT=NONE] 
          */
         public static final int abc_toolbar_collapse_description=0x7f0a0004;
-        public static final int action_settings=0x7f0a001a;
+        public static final int action_settings=0x7f0a001b;
         public static final int app_name=0x7f0a0011;
         public static final int btn_display=0x7f0a0019;
         public static final int hello=0x7f0a0010;
+        public static final int next=0x7f0a001a;
         public static final int option1=0x7f0a0016;
         public static final int option2=0x7f0a0017;
         public static final int option3=0x7f0a0018;
